@@ -3,7 +3,6 @@
 Setting up a personal virtual lab for cybersecurity practice and hands-on learning
 
 ````markdown
-# 🔐 NetworkWalks — Cybersecurity Lab
 
 ![Skill](https://img.shields.io/badge/Skill-Cybersecurity-808080)
 ![Ver](https://img.shields.io/badge/Ver-Virtualbox%20v7.2-blue)
